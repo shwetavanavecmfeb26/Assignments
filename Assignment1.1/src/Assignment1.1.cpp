@@ -16,7 +16,7 @@ int main()
    float os;
    float cn;
 
-   printf("Marks in CPP: ");
+   printf("Marks in CPP:   ");
    scanf("%f",&cpp);
    printf("Marks in DSA: ");
    scanf("%f",&dsa);
